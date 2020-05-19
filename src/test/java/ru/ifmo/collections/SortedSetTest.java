@@ -7,7 +7,7 @@ import java.util.Arrays;
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.MatcherAssert.assertThat;
 
-public class    SortedSetTest {
+    public class SortedSetTest {
     @Test
     public void sortedSetTest() {
         SortedSet<Integer> set = SortedSet.create();
